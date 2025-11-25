@@ -31,4 +31,4 @@ Speculative Execution- When a task takes time the RM(Resource Manager) spins off
 Job Tracker = Resource Manager
 Task Tracker = Node Manager
 
-### [🛠️ Resource](https://lumiqai.udemy.com/course/hadoop-querying-tool-hive-to-advance-hivereal-time-usage/learn/lecture/)
+### [🛠️ Resource](https://www.udemy.com/course/hadoop-querying-tool-hive-to-advance-hivereal-time-usage/)
