@@ -39,7 +39,9 @@
 -   ├── SQL
 -   │   ├── questions/
 -   │   └── [README.md](SQL/README.md)
--   ├── [RevisionDoc.docx](RevisionDoc.docx)
 -   ├── [EXTRA.md](EXTRA.md)
+-   ├── [HM.md](HM.md)
+-   ├── [HR.md](HR.md)
+-   ├── [PROMPTS.md](PROMPTS.md)
 -   ├── [TEMPLATE.md](TEMPLATE.md)
 -   └── [todo](todo)
