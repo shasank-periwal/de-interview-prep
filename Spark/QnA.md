@@ -228,6 +228,3 @@ Parquet - If using `Spark`, set `.option("mergeSchema",True)`, Spark will combin
 
 39. Why did comparison between HUDI, Iceberg and Delta Lake only. What problems do they solve that Hive cannot?
     >Open Table Format has a metadata layer that utilizes the low-cost nature of blob storage and gives ACID properties on top of it whereas Hive is a query engine that stores the metadata for the tables stored in HDFS. Hive is a query engine; Open Table Format is metadata layer, we can't query from Open Table Format.As datasets grow (millions of partitions, petabytes of data), Hive’s reliance on the Hive Metastore and its approach to partitions leads to bottlenecks—especially with S3 object stores. Iceberg and Delta Lake were designed to efficiently manage metadata at this scale and reduce performance issues.
-
-    
-https://chatgpt.com/share/6835fe6f-3d78-800d-ab85-8f0372c843c7

@@ -95,8 +95,6 @@ The key difference:
 <br>You cannot use both — only one of execution_delta or execution_date_fn is allowed.
 
 
-https://chatgpt.com/share/684d888f-3ef4-800d-88a9-8f77b862f793
-
 ## EXECUTORS
 1. SequentialExecutor(default)- Runs tasks one at a time, sequentially, in the scheduler process.
 2. LocalExecutor- Runs tasks in parallel processes on the same machine as the scheduler.
