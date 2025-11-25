@@ -1,0 +1,45 @@
+## STRUCTURE
+-   ├── Airflow
+-   │   ├── sample_dags/
+-   │   └── [README.md](Airflow/README.md)
+-   ├── assets
+-   │   └── *.png
+-   ├── AWSplus
+-   │   ├── AWSCertifiedDataEngineerSlides.pdf
+-   │   ├── kds-architecture.png
+-   │   └── [README.md](AWSplus/README.md)
+-   ├── DataModelling
+-   │   ├── [README.md](DataModelling/README.md)
+-   │   └── SnowflakevsStarSchema.png
+-   ├── Docker
+-   │   └── [README.md](Docker/README.md)
+-   ├── Hive
+-   │   ├── assets/
+-   │   └── [README.md](Hive/README.md)
+-   ├── HLD-LLD
+-   │   └── [README.md](HLD-LLD/README.md)
+-   ├── Kafka
+-   │   ├── assets/
+-   │   ├── [question.md](Kafka/question.md)
+-   │   └── [README.md](Kafka/README.md)
+-   ├── Python
+-   │   ├── questions/
+-   │   └── [README.md](Python/README.md)
+-   ├── Spark
+-   │   ├── assets/
+-   │   ├── questions/
+-   │   ├── [QnA.md](Spark/QnA.md)
+-   │   └── [README.md](Spark/README.md)
+-   ├── spark-streaming
+-   │   ├── assets/
+-   │   ├── docker-compose.yml
+-   │   ├── docker.yml
+-   │   ├── [README.md](spark-streaming/README.md)
+-   │   └── spark-streaming/
+-   ├── SQL
+-   │   ├── questions/
+-   │   └── [README.md](SQL/README.md)
+-   ├── [RevisionDoc.docx](RevisionDoc.docx)
+-   ├── [EXTRA.md](EXTRA.md)
+-   ├── [TEMPLATE.md](TEMPLATE.md)
+-   └── [todo](todo)

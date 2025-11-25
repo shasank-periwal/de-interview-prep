@@ -1,0 +1,2 @@
+v1
+{"path":"file:///home/jupyter/spark-streaming/data/output/device_data.csv/part-00000-c821ce3e-8d53-49a2-b02f-c31f0a00d96d-c000.csv","size":103,"isDir":false,"modificationTime":1744803658156,"blockReplication":1,"blockSize":33554432,"action":"add"}
