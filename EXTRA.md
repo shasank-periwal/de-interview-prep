@@ -72,11 +72,3 @@ Exploratory Data Analysis (EDA) is a technique used by data professionals to und
 
 4. What is thrift server?
    > The Thrift server acts as a bridge between external client applications and the distributed SQL engine
-
-## DSA Related
-
-    LineSweep
-    DifferenceArray- When asked to find about updating values in a set interval, find the relative diff between elements, set the num[from] += val and num[to] -= val and then prefix sum.
-    When we have to find something between ranges, prefix sum.
-    KMP- for prefix and suffix
-    Count of each element in subsets of an array = 2**(n-1) where n = len(array)
