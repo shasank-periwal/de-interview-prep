@@ -1,14 +1,12 @@
 # 🚀 Data Engineering Interview Preparation
 
-Welcome to your one-stop resource for **Data Engineering Interview Preparation**. This repository is a comprehensive collection of notes, questions, coding challenges, and system design concepts designed to help you crack DE interviews at top-tier tech companies.
-
-Whether you are brushing up on SQL, diving deep into Spark internals, or preparing for the behavioral rounds, you'll find structured resources here.
+This repository contains notes from tutorials I watched, documentation I read, and whatever was asked during my interview process. Consider it an all-rounder guide, but feel free to fork it and add whatever you require.
 
 -----
 
 ## 🏁 Getting Started
 
-Use this repository as a roadmap. You can navigate through the folders based on your weak areas or follow the structure for a holistic review.
+You can navigate through the folders based on your weak areas or follow the structure for a holistic review.
 
 1.  **Clone the repo** to your local machine to run code snippets (especially for Python/Spark).
 2.  **Star the repo** to save it for future reference.
