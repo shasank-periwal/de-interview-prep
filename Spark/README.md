@@ -98,8 +98,6 @@ df = df.repartition(3).write.format("csv") \
 -   DataFrame - Built on top of RDD, does optimization using Catalyst Optimizer. **What to**
 -   Dataset- provides type safety(Present in scala), it can push down many filter condition to your source, even efficient than Kryo-Serializer.
 
-##### NOTE: If we write code using RDD/Dataframe, it takes more time since it serializes/deserializes the code from/to Java, hence not very memory efficient.
-
 ### Types of Transformation:
 -   Narrow dependency: Transformations that do not require data shuffling between partitions. Ex: Union, Filter, Map, Select, etc.
 -   Wide dependency: Transformations that require data shuffling between partitions. Ex- groupby, orderby, reducebykey<br>
