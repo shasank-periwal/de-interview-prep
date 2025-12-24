@@ -1,3 +1,7 @@
+### Python CheatSheet - https://leetcode.com/discuss/post/2122306/python-cheat-sheet-for-leetcode-by-build-31ns/
+### Roadmap(Only reqd till LinkedList) - https://neetcode.io/roadmap
+
+
     tuple = ()
     list = []
     set = {a,}
